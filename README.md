@@ -51,7 +51,3 @@ go run main.go
 
 There is only one API endpoint for this project.\
 It is a POST request to `http://localhost:8080/identify`
-
-## References
-
-https://bitespeed.notion.site/Bitespeed-Backend-Task-Identity-Reconciliation-53392ab01fe149fab989422300423199
