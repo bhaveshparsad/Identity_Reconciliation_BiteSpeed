@@ -10,7 +10,7 @@ It would link different orders made with different contact information to the sa
 
 Please ensure that you have the following installed:\
 [golang](https://go.dev/doc/install)\
-[mysql](https://www.postgresql.org/download/)
+[postgresql](https://www.postgresql.org/download/)
 
 ## Installation
 
