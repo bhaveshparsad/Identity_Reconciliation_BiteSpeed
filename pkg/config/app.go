@@ -6,10 +6,10 @@ import (
 )
 
 const (
-	DBUserName = "your_username"
-	DBPassword = "your_password"
-	DBName     = "your_db_name"
-	DBHost     = "localhost"
+	DBUserName = "dev"
+	DBPassword = "12345"
+	DBName     = "fluxkart"
+	DBHost     = "127.0.0.1"
 	DBPort     = "5432" // Default PostgreSQL port
 )
 
